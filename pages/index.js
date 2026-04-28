@@ -15,10 +15,7 @@ function Home() {
                 maxWidth: "700px",
                 lineHeight: "1.6"
             }}>
-            Fiz essa página pensando em você ❤️ <br /><br />
-            Tenha uma ótima sexta-feira! <br />
-            Espero que nossa caminhada juntos seja repleta de momentos felizes e que, diante de qualquer obstáculo, possamos sempre enfrentá-los lado a lado ❤️<br />
-            Ass. Willian
+            Em construção.
         </h1>
     </div>
 }
